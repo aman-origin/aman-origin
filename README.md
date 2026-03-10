@@ -52,7 +52,7 @@ BCA Student passionate about backend development and building scalable APIs.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-origin\&show_icons=true)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-origin&show_icons=true&theme=default
 
 ---
 
