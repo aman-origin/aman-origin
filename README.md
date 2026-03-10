@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar 👋
 
-<!--
-**aman-origin/aman-origin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot | SQL
 
-Here are some ideas to get you started:
+BCA Student passionate about backend development and building scalable APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Java
+- Spring Boot
+- Data Structures & Algorithms
+- System Design Basics
+
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- SQL
+- Git
+- REST APIs
+
+## 📂 Projects
+- Spring Boot REST API
+- Student Management System
+- Full Stack Project
+
+## 🌍 Open Source Contributions
+- Contributed to Java open source projects
+- Followed Git workflow: fork → branch → commit → pull request
+
+## 📫 Connect With Me
+- LinkedIn: (add later)
+- Email: (optional)
