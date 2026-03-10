@@ -4,28 +4,59 @@
 
 BCA Student passionate about backend development and building scalable APIs.
 
+---
+
+## 👨‍💻 About Me
+
+* 🎓 BCA Student (2023–2027)
+* 💻 Aspiring Java Backend Developer
+* 🌱 Currently learning Spring Boot and Data Structures & Algorithms
+* 🚀 Interested in Backend Development and Open Source
+
+---
+
 ## 🚀 Currently Learning
-- Java
-- Spring Boot
-- Data Structures & Algorithms
-- System Design Basics
+
+* Java
+* Spring Boot
+* Data Structures & Algorithms
+* System Design Basics
+
+---
 
 ## 🛠 Tech Stack
-- Java
-- Spring Boot
-- SQL
-- Git
-- REST APIs
+
+* Java
+* Spring Boot
+* SQL
+* Git
+* REST APIs
+
+---
 
 ## 📂 Projects
-- Spring Boot REST API
-- Student Management System
-- Full Stack Project
+
+* **Spring Boot REST API**
+* **Student Management System**
+* **Full Stack Project (In Progress)**
+
+---
 
 ## 🌍 Open Source Contributions
-- Contributed to Java open source projects
-- Followed Git workflow: fork → branch → commit → pull request
+
+* Contributed to open source projects on GitHub
+* Followed Git workflow: fork → branch → commit → pull request
+* Fixed minor issues and improved project maintainability
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-origin\&show_icons=true)
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: (add later)
-- Email: (optional)
+
+* LinkedIn: https://www.linkedin.com/in/aman-in/
+* Email: [amankumar@gmail.com](mailto:amankumar@gmail.com)
