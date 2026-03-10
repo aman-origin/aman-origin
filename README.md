@@ -58,5 +58,6 @@ BCA Student passionate about backend development and building scalable APIs.
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/aman-in/
-* Email: [amankumar@gmail.com](mailto:amankumar@gmail.com)
+* 💼 LinkedIn: [Aman Kumar](https://www.linkedin.com/in/aman-in/)
+* 📧 Email: [amankumarlkrbihar@gmail.com](mailto:amankumarlkrbihar@gmail.com)
+
