@@ -1,60 +1,101 @@
 # Hi, I'm Aman Kumar 👋
 
-### Java Backend Developer | Spring Boot | SQL
-
-BCA Student passionate about backend development and building scalable APIs.
+💻 **Java Backend Developer | Spring Boot | REST APIs**
+🎓 BCA Student at **JIS College of Engineering (2023–2027)**
+🚀 Passionate about building scalable backend systems and APIs.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 BCA Student (2023–2027)
-* 💻 Aspiring Java Backend Developer
-* 🌱 Currently learning Spring Boot and Data Structures & Algorithms
-* 🚀 Interested in Backend Development and Open Source
+* 💻 Backend developer focused on **Java & Spring Boot**
+* ⚡ Interested in **Backend Engineering, Microservices & System Design**
+* 🌱 Currently learning **Spring Boot, Data Structures & Algorithms**
+* 🌍 Exploring **Open Source Contributions**
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Tech Stack
+
+**Languages**
 
 * Java
-* Spring Boot
-* Data Structures & Algorithms
-* System Design Basics
-
----
-
-## 🛠 Tech Stack
-
-* Java
-* Spring Boot
 * SQL
-* Git
+
+**Backend**
+
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
 * REST APIs
+
+**Database**
+
+* MySQL
+* PostgreSQL (Learning)
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Maven
+* Docker (Learning)
+* Kafka (Learning)
 
 ---
 
 ## 📂 Projects
 
-* **Spring Boot REST API**
-* **Student Management System**
-* **Full Stack Project (In Progress)**
+### 🛒 E-Commerce Backend (Microservices)
+
+**Tech:** Spring Boot, Kafka, MySQL
+
+Features:
+
+* Order Service
+* Payment Service
+* Notification Service
+* Event-driven communication
+
+---
+
+### 📚 Student Management System
+
+**Tech:** Spring Boot, MySQL
+
+Features:
+
+* CRUD operations
+* REST APIs
+* Layered architecture
+
+---
+
+### 🔗 URL Shortener (Planned)
+
+**Tech:** Spring Boot, Redis, MySQL
+
+Concepts:
+
+* URL hashing
+* caching
+* database indexing
 
 ---
 
 ## 🌍 Open Source Contributions
 
 * Contributed to open source projects on GitHub
-* Followed Git workflow: fork → branch → commit → pull request
-* Fixed minor issues and improved project maintainability
+* Fixed minor bugs and improved documentation
+* Familiar with **Fork → Branch → Commit → Pull Request workflow**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-origin&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-origin\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-origin&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-origin\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -63,3 +104,6 @@ BCA Student passionate about backend development and building scalable APIs.
 * 💼 LinkedIn: [Aman Kumar](https://www.linkedin.com/in/aman-in/)
 * 📧 Email: [amankumarlkrbihar@gmail.com](mailto:amankumarlkrbihar@gmail.com)
 
+---
+
+⭐ *Always learning, building, and improving backend systems.*
