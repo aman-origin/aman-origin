@@ -1,46 +1,51 @@
 # Hi, I'm Aman Kumar 👋
 
-💻 **Java Backend Developer | Spring Boot | REST APIs**
-🎓 BCA Student at **JIS College of Engineering (2023–2027)**
-🚀 Passionate about building scalable backend systems and APIs.
+### Java Backend Developer | Spring Boot | Microservices | REST APIs
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+🎓 BCA Student at JIS College of Engineering (2023–2027)  
+💻 Passionate about building scalable backend systems and APIs  
+🚀 Currently exploring Microservices and System Design
 
 ---
 
-## 👨‍💻 About Me
+## 🛠 Tech Stack
 
-* 🎓 BCA Student (2023–2027)
-* 💻 Backend developer focused on **Java & Spring Boot**
-* ⚡ Interested in **Backend Engineering, Microservices & System Design**
-* 🌱 Currently learning **Spring Boot, Data Structures & Algorithms**
-* 🌍 Exploring **Open Source Contributions**
-
----
-
-## 🚀 Tech Stack
-
-**Languages**
+### Languages
 
 * Java
 * SQL
 
-**Backend**
+### Backend
 
 * Spring Boot
 * Spring MVC
 * Spring Data JPA
 * REST APIs
 
-**Database**
+### Databases
 
 * MySQL
 * PostgreSQL (Learning)
 
-**Tools & Technologies**
+### Tools & Technologies
 
 * Git & GitHub
 * Maven
 * Docker (Learning)
 * Kafka (Learning)
+* Postman
+
+### Concepts
+
+* Microservices Architecture
+* RESTful API Design
+* Event Driven Architecture
+* System Design Basics
 
 ---
 
@@ -55,7 +60,7 @@ Features:
 * Order Service
 * Payment Service
 * Notification Service
-* Event-driven communication
+* Event-driven communication between services
 
 ---
 
@@ -68,10 +73,11 @@ Features:
 * CRUD operations
 * REST APIs
 * Layered architecture
+* Database integration
 
 ---
 
-### 🔗 URL Shortener (Planned)
+### 🔗 URL Shortener (In Progress)
 
 **Tech:** Spring Boot, Redis, MySQL
 
@@ -80,6 +86,7 @@ Concepts:
 * URL hashing
 * caching
 * database indexing
+* scalable URL storage
 
 ---
 
@@ -89,6 +96,25 @@ Concepts:
 * Fixed minor bugs and improved documentation
 * Familiar with **Fork → Branch → Commit → Pull Request workflow**
 
+---
+
+## 🔥 Currently Building
+
+* URL Shortener using **Spring Boot + Redis**
+* Learning **Kafka for event-driven microservices**
+* Practicing **Data Structures & Algorithms**
+  
+---
+
+## 🚀 Backend Learning Roadmap
+
+Currently exploring:
+
+-   Distributed Systems
+-   Apache Kafka for asynchronous communication
+-   Redis for caching and rate limiting
+-   Docker for containerized applications
+  
 ---
 
 ## 📊 GitHub Stats
