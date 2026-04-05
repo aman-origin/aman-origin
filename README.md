@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-🎓 BCA Student at JIS College of Engineering (2023–2027)  
+🎓 BCA Student at JIS College of Engineering (2023–2026)  
 💻 Passionate about building scalable backend systems and APIs  
 🚀 Currently exploring Microservices and System Design
 
