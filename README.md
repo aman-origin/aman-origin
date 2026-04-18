@@ -48,7 +48,7 @@
 - Full CRUD operations with category management
 - Spending summaries with clean dashboard UI
 
-**Built with:** Spring Boot, Spring Security, MySQL, React, Tailwind CSS
+**Built with:** Spring Boot, Spring Security, PostgreSQL, React, Tailwind CSS
 
 🔗 [Live](https://expense-tracker-app-chi-eight.vercel.app/) • [Code](https://github.com/aman-origin/expense-tracker-app)
 
