@@ -41,6 +41,19 @@
 🔗 [Live](https://job-tracker-app-iota-three.vercel.app/) • [Code](https://github.com/aman-origin/job-tracker)
 
 ---
+### Expense Tracker
+> Track daily expenses with categories and spending summaries
+
+- JWT authentication with Spring Security
+- Full CRUD operations with category management
+- Spending summaries with clean dashboard UI
+
+**Built with:** Spring Boot, Spring Security, MySQL, React, Tailwind CSS
+
+🔗 [Live](https://expense-tracker-app-chi-eight.vercel.app/) • [Code](https://github.com/aman-origin/expense-tracker)
+
+---
+
 
 ## 📬 Contact
 
