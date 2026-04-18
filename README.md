@@ -38,7 +38,7 @@
 
 **Built with:** Spring Boot, Spring Security, PostgreSQL, React, Tailwind CSS
 
-🔗 [Live](https://job-tracker-app-iota-three.vercel.app/) • [Code](https://github.com/aman-origin/job-tracker)
+🔗 [Live](https://job-tracker-app-iota-three.vercel.app/) • [Code](https://github.com/aman-origin/job-tracker-app)
 
 ---
 ### Expense Tracker
@@ -50,7 +50,7 @@
 
 **Built with:** Spring Boot, Spring Security, MySQL, React, Tailwind CSS
 
-🔗 [Live](https://expense-tracker-app-chi-eight.vercel.app/) • [Code](https://github.com/aman-origin/expense-tracker)
+🔗 [Live](https://expense-tracker-app-chi-eight.vercel.app/) • [Code](https://github.com/aman-origin/expense-tracker-app)
 
 ---
 
